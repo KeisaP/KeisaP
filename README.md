@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KeisaP
 - 👀 I’m interested in becoming an expert in web development
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on making a webpage accessible, https://github.com/KeisaP/week-one-homework
+- 🌱 I’m currently taking a bootcamp in full stack development
+- 💞️ I’m looking to collaborate on making my applications look more polished and make them interactive
 - 📫 How to reach me, kportress@yahoo.com, https://github.com/KeisaP
 
 <!---
